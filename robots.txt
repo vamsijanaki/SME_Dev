@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Sitemap: https://eliafrica.org/sitemap.xml
+Sitemap: https://eliafrica.org/sitemap0.xml
+Sitemap: https://eliafrica.org/sitemap1.xml
+Sitemap: https://eliafrica.org/sitemap2.xml
+Sitemap: https://eliafrica.org/sitemap3.xml
+Sitemap: https://eliafrica.org/sitemap4.xml
+Sitemap: https://eliafrica.org/sitemap5.xml
+Sitemap: https://eliafrica.org/sitemap6.xml
+Sitemap: https://eliafrica.org/sitemap7.xml
+Sitemap: https://eliafrica.org/sitemap8.xml
